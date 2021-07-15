@@ -1,3 +1,4 @@
+**/.DS_Store
 package-lock.json
 
 # Logs
@@ -104,3 +105,7 @@ dist
 
 # TernJS port file
 .tern-port
+.DS_Store
+layouts/.DS_Store
+layouts/partials/.DS_Store
+static/.DS_Store
