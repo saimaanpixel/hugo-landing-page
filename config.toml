@@ -5,7 +5,7 @@ publishdir = "public"
 canonifyUrls = "true"
 disableKinds = ["RSS","taxonomy","taxonomyTerm"] # disable hugo's content that we don't need...
 
-title = "Saimaanpixel.fi – Mainonnan ratkaisut" # page title -> see ./layouts/partials/head.html
+title = "Mainosnäyttö Särkisalmi Parikkala – Saimaanpixel.fi – Mainonnan ratkaisut" # page title -> see ./layouts/partials/head.html
 
 googleAnalytics = "" # if needed...
 
